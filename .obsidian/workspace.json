@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "d0616eeb9865e0bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f5f767714cd268e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64f8bbea64426aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c315bbe07a3b7c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d1b1bc0ca760a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aadda5748bd1a506",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d55972c87f2c5f73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e87740177a67559",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b96f8d9e3cc5ab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a36b2ea1d9a83a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d65df7af464dd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome Page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbeccfb9b66c941e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome Page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22d3946d8f74965d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b3dec084c9e553e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome Page.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aadda5748bd1a506",
+  "lastOpenFiles": [
+    "Images",
+    "Feedback",
+    "Equipment",
+    "Workshops",
+    "Instructions/Instructions  for things in the lab.md",
+    "Welcome Page.md",
+    "Instructions",
+    "Link Tree.md",
+    "README.md",
+    "Navigation.md",
+    "Who is this for.md"
+  ]
+}
